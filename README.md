@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/leonardo-rocha-constantino-4aa643265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![LeonardoRdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoRdev&show_icons=true&theme=moltack)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRdev&layout=compact&theme=kacho_ga)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRdev&layout=compact&theme=moltack)
 
 <br>
 
